@@ -1,6 +1,5 @@
-# Modified Version Of [Media Search bot](https://github.com/Mahesh0253/Media-Search-bot)
+#  [kannanfilterbotv3](https://github.com/Kannanbotv3/kannanfilterbotv3)
 
-## Example Bot [Imdb Bot](https://t.me/Ma_autofilterbot)
 
 ## Added Features
 * Imdb posters for autofilter.
@@ -13,12 +12,12 @@
 * Ability to restrict groups(AUTH_GROUPS)
 
 
-## If Any Doubts Ask In [Update Channel](https://t.me/ErrorXbotz), [Support Group](https://t.me/ErrorXsupport)
+
 
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jinn-Of-Telegram/Media-Search-bot-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kannanbotv3/kannanfilterbotv3)
 ### Hard Way
 
 ```bash
@@ -38,8 +37,7 @@ python3 bot.py
 Check [`sample_info.py`](sample_info.py) before editing [`info.py`](info.py) file
 
 
-## Thank You For [Subinps](https://t.me/Subinps_bot)
-
+## Thank You For 
 ## Variables
 
 ### Required Variables
